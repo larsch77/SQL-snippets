@@ -1,1 +1,1 @@
-
+--this is a testfile to select some keyvalues from the *.xml file of a workflow--
